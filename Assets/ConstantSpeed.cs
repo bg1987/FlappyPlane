@@ -12,4 +12,6 @@ public class ConstantSpeed : MonoBehaviour {
 	void Update () {
 		transform.position += Vector3.left * speed;
 	}
+
+    
 }
