@@ -1,8 +1,8 @@
 fileFormatVersion: 2
-guid: e2c166bfc06aff64d9168b0c5bdf0aba
+guid: d94a9e79e9c8ec64b958e884ee9f2f84
 TextureImporter:
   fileIDToRecycleName:
-    21300000: tapTick
+    21300000: upArrow
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -25,10 +25,10 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 1024
   textureSettings:
-    filterMode: 2
-    aniso: 1
+    filterMode: -1
+    aniso: -1
     mipBias: -1
-    wrapMode: 1
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -38,7 +38,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 70
+  spritePixelsToUnits: 100
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings: []
